@@ -1,4 +1,4 @@
-# Curso: Explore Funções e Listas
+# Curso Javascript:Mergulhe em programação com javascript/ Explore Funções e Listas
 ## Projeto: Jogo do número secreto, utilizado nos cursos de lógica de programação da Alura
 
 Este repositório contém notas e exercícios realizados durante o curso **Explore funções e listas**, oferecido pela plataforma [Alura](https://www.alura.com.br/).
