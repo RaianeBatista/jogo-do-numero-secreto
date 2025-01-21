@@ -1,5 +1,10 @@
-# Curso Javascript:Mergulhe em programação com javascript/ Explore Funções e Listas
+# Curso Javascript: Mergulhe em programação com javascript/ explore funções e listas
 ## Projeto: Jogo do número secreto, utilizado nos cursos de lógica de programação da Alura
+
+
+![Image](https://github.com/user-attachments/assets/cd11cdda-da96-4b30-90ac-a80f8aa30984)
+
+
 
 Este repositório contém notas e exercícios realizados durante o curso **Explore funções e listas**, oferecido pela plataforma [Alura](https://www.alura.com.br/).
 
